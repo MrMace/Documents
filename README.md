@@ -6,7 +6,7 @@ A collection of technical notes, setup guides, and reference material.
 
 ```
 
-/docs/ <category>/ <topic>.md
+ <category>/ <topic>.md
 
 ```
 
@@ -15,11 +15,11 @@ A collection of technical notes, setup guides, and reference material.
 
 ## Usage
 
-Browse the `/docs` folder to find what you need.
+Browse the `<category>` folders to find what you need.
 
 ## Notes
 
-- Keep filenames simple and consistent (e.g. `cli-setup.md`)
+- Keep filenames simple and consistent (e.g. `setup-stripe-cli.md`)
 - Avoid committing secrets or credentials
 - Update docs as things change
 ```
